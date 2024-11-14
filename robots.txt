@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://gangnamgu.jianhomecare.com/sitemap.xml
+Sitemap: https://gangbuk.jianhomecare.com/sitemap.xml
