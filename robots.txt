@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://seodaemungu.jianhomecare.com/sitemap.xml
+Sitemap: https://seocho.jianhomecare.com/sitemap.xml
