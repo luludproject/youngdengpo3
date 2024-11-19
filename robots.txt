@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://seocho.jianhomecare.com/sitemap.xml
+Sitemap: https://sungdong.jianhomecare.com/sitemap.xml
